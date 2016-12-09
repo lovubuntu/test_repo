@@ -1,4 +1,5 @@
 Hello this is a simple demo on git.
+Intermediate second line is added.
 This is the third version of the file.
 Now
 Now
@@ -9,3 +10,4 @@ Now
 
 Yesterday
 Yesterday
+We also have a fourth line.
